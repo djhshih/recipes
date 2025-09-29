@@ -1,7 +1,10 @@
-Guocamole recipe
+# Guocamole recipe
 
-Ingredients
+## Ingredients
+
 - avocado
 - lime
 - salt
 - pepper
+
+## Instructions
