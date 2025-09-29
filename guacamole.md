@@ -15,4 +15,4 @@
 - Take out the seed with a spoon.
 - Cut the avocado flesh into small pieces.
 - Transfer the avocado flesh into a bowl.
-
+- Add a few drops of lime juice.
