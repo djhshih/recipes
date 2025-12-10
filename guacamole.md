@@ -5,6 +5,7 @@
 - lime
 - salt
 - pepper
+- sugar
 
 ## Instructions
 
