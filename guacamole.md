@@ -9,3 +9,4 @@
 
 ## Instructions
 
+1. Cut the avocado in half around the seed.
